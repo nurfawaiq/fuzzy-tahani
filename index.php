@@ -7,7 +7,7 @@
 	<meta name="description" content="Fuzzy PHP">
 	<meta name="keywords" content="fuzzy, tahani">
 	<meta name="author" content="M. Nur Fawaiq">
-    <title>Fuzzy Tahani PHP</title>
+    <title>Fuzzy Tahani PHP - YukCoding</title>
 	<style>
 		body { font-family:Verdana, Arial; font-size:12px; }
 		.text-justify { text-align:center; }	
